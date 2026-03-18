@@ -28,7 +28,7 @@ module tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  tt_um_mult_top Anthcce_project (
+  tt_um_mult_top tt_multiplier_Anthcce (
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
