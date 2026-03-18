@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project works by taking two 4-bit inputs, A and B, and multiplying them to form the 8-bit output vector, P.
 
 ## How to test
 
-Explain how to use your project
+In order to test this project, the mult.v and mult_tb.v files can be run in ModelSim by Siemens EDA.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external hardware is required to carry out this project.
